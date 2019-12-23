@@ -1,0 +1,50 @@
+.header > p {
+  margin: 0;
+  color: red;
+  font-size: 60px;
+  position: relative;
+  text-align: center;
+}
+
+.myInput {
+  outline: none;
+  margin: 0;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  width: 50%;
+  padding: 10px;
+  position: relative;
+  left: 25%;
+  font-size: 16px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left: 25%;
+}
+
+li {
+  width: 50%;
+  font-size: 20px;
+  background-color: #dae292;
+  border-radius: 10px;
+  margin-bottom: 1px;
+  padding: 10px;
+  overflow: auto;
+}
+
+li:hover {
+  background: #8ca527;
+  cursor: pointer;
+}
+
+.buttons {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left: 25%;
+}
